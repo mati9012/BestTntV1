@@ -1,0 +1,6 @@
+name: BestTnt
+version: ${project.version}
+main: main.main.Main
+prefix: BestTnT
+authors: [ _mati90_ ]
+description: s
